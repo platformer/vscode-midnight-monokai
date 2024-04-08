@@ -1,22 +1,19 @@
 {
-  "name": "vscode-monokai-night",
-  "displayName": "Monokai Night Theme",
-  "publisher": "fabiospampinato",
-  "repository": "github:fabiospampinato/vscode-monokai-night",
-  "description": "A complete, dark and minimalistic Monokai-inspired theme.",
-  "icon": "resources/logo-128x128.png",
-  "version": "1.7.1",
+  "name": "vscode-midnight-monokai",
+  "displayName": "Midnight Monokai Theme",
+  "publisher": "platformer",
+  "repository": "github:platformer/vscode-midnight-monokai",
+  "description": "A dark theme inspired by Monokai Night Theme and Penumbra.",
+  "icon": "",
+  "version": "1.0.0",
   "contributes": {
     "themes": [
       {
-        "label": "Monokai Night",
+        "label": "Midnight Monokai",
         "uiTheme": "vs-dark",
         "path": "./themes/default.json"
       }
     ]
-  },
-  "scripts": {
-    "dev": "code --extensionDevelopmentPath $PWD --inspect-extensions 9222"
   },
   "categories": [
     "Themes"
@@ -31,8 +28,10 @@
     "theme",
     "monokai",
     "night",
+    "midnight",
     "dark",
     "minimalistic",
-    "clean"
+    "clean",
+    "uniform"
   ]
 }

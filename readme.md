@@ -1,3 +1,3 @@
 # Midnight Monokai
 
-A dark Monokai theme inspired by Monokai Night.
+A dark theme with perceptually uniform syntax colors. Inspired by Monokai Night Theme and Penumbra.

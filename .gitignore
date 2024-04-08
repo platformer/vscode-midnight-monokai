@@ -8,6 +8,7 @@
 .DS_Store
 .TemporaryItems
 .Trashes
+.vscode
 Thumbs.db
 
 dist
