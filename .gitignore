@@ -1,6 +1,7 @@
 *~
 *.err
 *.log
+*.vsix
 ._*
 .cache
 .fseventsd
