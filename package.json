@@ -5,7 +5,7 @@
   "repository": "github:platformer/vscode-midnight-monokai",
   "description": "A dark theme inspired by Monokai Night Theme and Penumbra.",
   "icon": "",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "contributes": {
     "themes": [
       {

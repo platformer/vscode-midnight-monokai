@@ -1,3 +1,6 @@
+### 1.0.2
+- Updated git decorations to use Penumbra colors
+
 ### 1.0.1
 - Updated package manifest
 
