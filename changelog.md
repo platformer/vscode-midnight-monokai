@@ -1,3 +1,6 @@
+### 1.0.4
+- Customized more colors
+
 ### 1.0.3
 - Updated terminal ansi colors to use Penumbra palette
 

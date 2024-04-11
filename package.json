@@ -3,9 +3,9 @@
   "displayName": "Midnight Monokai Theme",
   "publisher": "AndrewSen",
   "repository": "github:platformer/vscode-midnight-monokai",
-  "description": "A dark theme inspired by Monokai Night Theme and Penumbra.",
+  "description": "A Monokai-inspired dark theme with perceptually uniform syntax colors.",
   "icon": "",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "contributes": {
     "themes": [
       {
