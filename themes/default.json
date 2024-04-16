@@ -288,7 +288,7 @@
     "terminal.ansiBrightRed": "#f58c81",
     "terminal.ansiBrightYellow": "#c7ad40",
     "terminal.background": "#151515",
-    "terminal.border": "#161616",
+    "terminal.border": "#1f1f1f",
     "terminal.foreground": "#dddddd",
     "terminal.selectionBackground": "#ffffff24",
     "terminalCursor.background": "#262626",

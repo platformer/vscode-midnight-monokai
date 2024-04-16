@@ -1,3 +1,6 @@
+### 1.0.6
+- Customized more colors
+
 ### 1.0.5
 - Customized more colors
 

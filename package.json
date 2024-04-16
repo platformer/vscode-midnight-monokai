@@ -5,7 +5,7 @@
   "repository": "github:platformer/vscode-midnight-monokai",
   "description": "A Monokai-inspired dark theme with perceptually uniform syntax colors.",
   "icon": "",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "contributes": {
     "themes": [
       {
